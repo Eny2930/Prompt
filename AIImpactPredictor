@@ -1,0 +1,14 @@
+AIImpactPredictor/
+│
+├── data/                      # Data collection and preprocessing
+│   ├── healthcare.txt
+│   ├── finance.txt
+│   ├── education.txt
+│   ├── manufacturing.txt
+│   └── entertainment.txt
+│
+├── promptcraft.py             # PromptCraft module
+│
+├── aiimpactpredictor.py       # AIImpactPredictor module
+│
+└── main.py                    # Main script for generating predictions
